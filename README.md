@@ -1,10 +1,6 @@
 <!-- Header Image -->
 <img src="https://raw.githubusercontent.com/kirill-dorkin/kirill-dorkin/main/git_header.jpg" alt="Kirill Dorkin Header" width="100%" />
 
-<!-- Main Title & Tagline -->
-# KIRILL DORKIN
-### </> Student & Front-end Developer
-
 <!-- Навигация/Соцсети -->
 <p>
   <a href="https://t.me/your_username">
