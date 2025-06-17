@@ -3,13 +3,13 @@
 
 <!-- Навигация/Соцсети -->
 <p>
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/sfgech">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:kirilldorkin500@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://your-portfolio.com](https://portfolio-opal-six-12.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
