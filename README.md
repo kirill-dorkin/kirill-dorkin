@@ -47,7 +47,7 @@ Focused on clean code, innovative UI/UX, and bringing ideas to life with pixel-p
 
 ## ☕ Support My Work
 
-If you enjoy my content and projects, feel free to [buy me a coffee](https://www.buymeacoffee.com/yourname) and help me keep going!
+If you enjoy my content and projects, feel free to [buy me a coffee](https://www.buymeacoffee.com/invite/wzb6qy8shnh) and help me keep going!
 
 ---
 
