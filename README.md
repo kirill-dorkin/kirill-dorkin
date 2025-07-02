@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<img src="https://raw.githubusercontent.com/kirill-dorkin/kirill-dorkin/main/git_header.jpg" alt="Kirill Dorkin Header" width="100%" />
+<img src="https://raw.githubusercontent.com/kirill-dorkin/kirill-dorkin/main/1.png" alt="Kirill Dorkin Header" width="100%" />
 
 <!-- Навигация/Соцсети -->
 <p>
