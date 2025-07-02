@@ -26,9 +26,7 @@ Focused on clean code, innovative UI/UX, and bringing ideas to life with pixel-p
 
 ---
 <p>
-    <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
-    <img src="https://img.shields.io/badge/Unit-testing-808080?style=for-the-badge" alt="Unit-testing"/>
-    <img src="https://img.shields.io/badge/ORM-808080?style=for-the-badge" alt="ORM"/>
+    <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>ё
     <img src="https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django ORM"/>
     <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
@@ -44,21 +42,13 @@ Focused on clean code, innovative UI/UX, and bringing ideas to life with pixel-p
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Cross-cultural%20Communication-808080?style=for-the-badge" alt="Cross-cultural Communication"/>
-    <img src="https://img.shields.io/badge/Webpack%20%26%20Code%20Splitting-808080?style=for-the-badge" alt="Webpack & Code Splitting"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Code%20Review%20%26%20Quality%20Assurance-808080?style=for-the-badge" alt="Code Review & Quality Assurance"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/CSS%20Modules-808080?style=for-the-badge" alt="CSS Modules"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-    <img src="https://img.shields.io/badge/Task%20Planning%20%26%20Time%20Management-808080?style=for-the-badge" alt="Task Planning & Time Management"/>
-    <img src="https://img.shields.io/badge/RTL-808080?style=for-the-badge" alt="RTL"/>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-    <img src="https://img.shields.io/badge/Remote%20Team%20Collaboration-808080?style=for-the-badge" alt="Remote Team Collaboration"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/REST%20API%20Integration-808080?style=for-the-badge" alt="REST API Integration"/>
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/Responsive%20Web%20Design-808080?style=for-the-badge" alt="Responsive Web Design"/>
