@@ -51,7 +51,6 @@ Focused on clean code, innovative UI/UX, and bringing ideas to life with pixel-p
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Responsive%20Web%20Design-808080?style=for-the-badge" alt="Responsive Web Design"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
     <img src="https://img.shields.io/badge/WebSocket-808080?style=for-the-badge" alt="WebSocket"/>
@@ -59,31 +58,18 @@ Focused on clean code, innovative UI/UX, and bringing ideas to life with pixel-p
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=scss&logoColor=white" alt="SCSS"/>
-    <img src="https://img.shields.io/badge/Semantic%20Markup-808080?style=for-the-badge" alt="Semantic Markup"/>
-    <img src="https://img.shields.io/badge/SDS%20UI%20Dev%20Tools-808080?style=for-the-badge" alt="SDS UI Dev Tools"/>
-    <img src="https://img.shields.io/badge/Server-Side%20Rendering-808080?style=for-the-badge" alt="Server-Side Rendering"/>
     <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
     <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js"/>
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook"/>
-    <img src="https://img.shields.io/badge/CI%2FCD-808080?style=for-the-badge" alt="CI/CD"/>
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/Corporate%20SSO%20Integration-808080?style=for-the-badge" alt="Corporate SSO Integration"/>
-    <img src="https://img.shields.io/badge/Agile-808080?style=for-the-badge" alt="Agile"/>
-    <img src="https://img.shields.io/badge/Scrum-808080?style=for-the-badge" alt="Scrum"/>
-    <img src="https://img.shields.io/badge/Git%20Flow-808080?style=for-the-badge" alt="Git Flow"/>
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-    <img src="https://img.shields.io/badge/Performance%20Optimization-808080?style=for-the-badge" alt="Performance Optimization"/>
-    <img src="https://img.shields.io/badge/WCAG-808080?style=for-the-badge" alt="WCAG"/>
-    <img src="https://img.shields.io/badge/E2E-testing-808080?style=for-the-badge" alt="E2E-testing"/>
-    <img src="https://img.shields.io/badge/Localization%20%26%20i18n-808080?style=for-the-badge" alt="Localization & i18n"/>
     <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
     <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
     <img src="https://img.shields.io/badge/Bun-FFCD1E?style=for-the-badge&logo=bun&logoColor=black" alt="Bun"/>
-    <img src="https://img.shields.io/badge/Debugging%20%26%20browser-devtools-808080?style=for-the-badge" alt="Debugging & browser-devtools"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier"/>
