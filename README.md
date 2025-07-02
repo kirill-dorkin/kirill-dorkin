@@ -1,19 +1,6 @@
 <!-- Header Image -->
 <img src="https://raw.githubusercontent.com/kirill-dorkin/kirill-dorkin/main/1.png" alt="Kirill Dorkin Header" width="100%" />
 
-<!-- Навигация/Соцсети -->
-<p>
-  <a href="https://t.me/sfgech">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:kirilldorkin500@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://portfolio-opal-six-12.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
 ---
 
 <!-- Основное описание -->
